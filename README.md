@@ -1,6 +1,4 @@
-<img src="https://lella.files.wordpress.com/2009/03/tropa-de-elite.jpg">
-
-![Banner Tropa de Elite](https://gitlab.com/fabiavieira/robocode-aspira-solutis-2020/img/banner-principal.png)
+<img src="/img/banner-principal.png">
 
 # Robocode Aspira
 
