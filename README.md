@@ -54,7 +54,7 @@ Para mim foi uma oportunidade fantástica de adiquirir experiências multiplas e
 Esta foi a primeira vez que utilizei o GitLab, então foi mais um aprendizado adicionado à minhas grande lista. 
 
 
-### **_Obrigada Soluts! Eu quero mais!!!_**
+### **_Obrigada Solutis! Eu quero mais!!!_**
 
 <img src="https://i.pinimg.com/originals/34/27/94/3427943873a9a66f4686a6b574807bf9.gif">
 
