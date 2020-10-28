@@ -1,0 +1,7 @@
+{
+  "name": "Aspira",
+  "tag": "FECS",
+  "pilot": "Fábia Emanuele Cardoso Sena",
+  "mainFile": "./src/Aspira.java",
+  "supportFiles": ["./src/Aspira.class"]
+}
